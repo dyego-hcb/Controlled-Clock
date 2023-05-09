@@ -1,1 +1,3 @@
 # Controller-Clock
+
+Este repositório contém um código HTML, CSS e JavaScript para criar um relógio controlado, que permite aos usuários ajustar o número de horas, minutos e segundos exibidos no relógio. O relógio é construído usando elementos SVG e inclui dois ponteiros para minutos e segundos, que se movem continuamente em tempo real. O JavaScript utiliza a biblioteca anime.js para criar as animações dos ponteiros do relógio e atualiza o tempo exibido no relógio de acordo com as seleções do usuário. O código HTML também inclui uma seção de controle, onde os usuários podem ajustar as horas, minutos e segundos exibidos no relógio. O CSS é usado para estilizar o relógio e os controles.
